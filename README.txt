@@ -1,3 +1,6 @@
+参考博客：https://www.cnblogs.com/peghoty/p/3857839.html
+
+
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
